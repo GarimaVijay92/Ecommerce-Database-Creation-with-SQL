@@ -26,6 +26,7 @@ Create/Insert/Update the table and data:
 
 
 6. SQL Insights & Analysis
+
 Wrote SQL queries to retrieve meaningful insights, including:
 
 1. Top 10 products by total sales value
