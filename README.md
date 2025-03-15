@@ -15,17 +15,17 @@ Developed an Entity Relationship Diagram (ERD) to map out entities, attributes, 
 ![image](https://github.com/user-attachments/assets/c4cc7e17-8f46-402e-a337-94ad10bdd5c8)
 
 
-Converted the ERD into a logical database schema to ensure efficiency and normalization.
+3. Converted the ERD into a logical database schema to ensure efficiency and normalization.
 ![image](https://github.com/user-attachments/assets/07857d90-dce5-4e65-98a9-2538e1e0ac8e)
 
-4. Database Implementation
-Create/Insert/Update the table and data:
+### Database Implementation
+4. Create/Insert/Update the table and data:
 <img width="365" alt="image" src="https://github.com/user-attachments/assets/2447a463-5f88-4c65-a963-61439ae640bc" />
 
 <img width="377" alt="image" src="https://github.com/user-attachments/assets/6aa91476-6375-42b2-8193-310295a8047e" />
 
 
-6. SQL Insights & Analysis
+5. SQL Insights & Analysis
 
 Wrote SQL queries to retrieve meaningful insights, including:
 
